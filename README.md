@@ -1,5 +1,5 @@
 # sales_dashboard
-### Dashboard Link : 
+
 ## Problem Statement
 
 This dashboard helps the sales understand their customers better. It helps the supersales know if their customers are satisfied with their services.A retail company wants to better understand its sales performance across different regions, products, and customer segments. Despite having large amounts of data, they are unable to make quick, data-driven decisions due to a lack of visual insights.

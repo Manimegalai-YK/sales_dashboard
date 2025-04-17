@@ -1,15 +1,21 @@
 # sales_dashboard
-# Airlines-Dashboard
-
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+This dashboard helps the sales understand their customers better. It helps the supersales know if their customers are satisfied with their services.A retail company wants to better understand its sales performance across different regions, products, and customer segments. Despite having large amounts of data, they are unable to make quick, data-driven decisions due to a lack of visual insights.
+The goal of this project is to analyze retail sales data and create an interactive Power BI dashboard that provides insights into:
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
+-Overall sales trends over time
 
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+-Top-performing products and categories
+
+-Regional sales performance
+
+-Customer behavior and segmentation
+
+-Profitability analysis
+This analysis will help stakeholders identify growth opportunities, underperforming areas, and make informed business decisions to boost revenue and efficien
 
 
 ### Steps followed 
@@ -21,11 +27,8 @@ Also since average delay in arrival & departure both is 15 minutes, thus they mu
 - Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
-- Step 9 : Two card visuals were added to the canvas, one representing average departure delay in minutes & other representing average arrival delay in minutes.
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
-           
-           Although, by default, while calculating average, blank values are ignored.
+- Step 8 : Visual filters (Slicers) were added for four fields named Order date "Regin" , "Year" & "State"
+ - Step 9 : Three card visuals were added to the canvas, one representing Total Revenu & other representing Total Profit and Total Quantity Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.Although, by default, while calculating average, blank values are ignored.
 - Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
 - Step 11 : Ratings Visual was used to represent different ratings mentioned below,
 

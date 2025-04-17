@@ -54,6 +54,22 @@ Time-based calculations using YEAR(), QUARTER(), CALCULATE()
  ### snapshot of dashboard Category and sub-category level analysis 
         
 ![Image](https://github.com/user-attachments/assets/e1f2b2f5-baac-4c36-b428-143feca20666)
+
+### Dashboard Elements Included
+
+a) KPI Cards: Revenue, Quantity, Profit
+
+b) Sales and Profit by Year (Clustered Column Chart)
+ 
+c)Sales by Segment & Category (Stacked Bar/Column)
+
+d) Map View: Sales by Region
+
+e) Table: City-wise Sales and Quantity
+
+f) Profit Trend by Year & Quarter (Line/Column Charts)
+
+g) Sub-Category Breakdown (Bar Charts with Count & Values)
  
 
  

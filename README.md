@@ -77,21 +77,13 @@ for creating new column following DAX expression was written;
         
         "75-100 (100 included)")))
         
--Sales Dashboard
+###  Snapshot of Dashboard Sales Dashboard
 
 ![Image](https://github.com/user-attachments/assets/956df891-9e3c-4c44-ad6b-4eaf8104f2f6)
 
-        
-- Step 15 : New measure was created to find total count of customers.
+### Snapshot of Dashboard (Power BI Service)
 
-Following DAX expression was written for the same,
-        
-        Count of Customers = COUNT(airline_passenger_satisfaction[ID])
-        
-A card visual was used to represent count of customers.
-
-![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
-
+ 
         
  - Step 16 : New measure was created to find  % of customers,
  

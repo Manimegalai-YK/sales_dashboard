@@ -81,15 +81,13 @@ for creating new column following DAX expression was written;
 
 ![Image](https://github.com/user-attachments/assets/956df891-9e3c-4c44-ad6b-4eaf8104f2f6)
 
-### Snapshot of Dashboard (Power BI Service)
+### Snapshot of Dashboard Region and state level Analysis
 
- 
+![Image](https://github.com/user-attachments/assets/7642eb82-610f-43a5-87d6-4708b89edecc)
+
+ ### snapshot of dashboard Category and sub-category level analysis 
         
- - Step 16 : New measure was created to find  % of customers,
- 
- Following DAX expression was written to find % of customers,
- 
-         % Customers = (DIVIDE(airline_passenger_satisfaction[Count of Customers], 129880)*100)
+
  
  A card visual was used to represent this perecntage.
  

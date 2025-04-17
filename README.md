@@ -27,10 +27,10 @@ This analysis will help stakeholders identify growth opportunities, underperform
 - Step 5 : For calculating average delay time, null values were not taken into account as only less than 1% values are null in this column(i.e column named "Arrival Delay") 
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 8 : Visual filters (Slicers) were added for four fields named Order date "Regin" , "Year" & "State"
- - Step 9 : Three card visuals were added to the canvas, one representing Total Revenu & other representing Total Profit and Total Quantity Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.Although, by default, while calculating average, blank values are ignored.
-- Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
-- Step 11 : Ratings Visual was used to represent different ratings mentioned below,
+- Step 8 : Visual filters (Slicers) were added for provide interactivity, allowing users to filter the dashboard by Order Date, Region, State, Segment, Category, and Sub-Category
+ - Step 9 : Three card visuals were added to the canvas, one representing Total Revenu & other representing Total Profit and Total Quantity Using the Card" visualization.
+- Step 10 : Created bar and column charts to show Sales and Profit trends by Year, Segment, and Category, helping identify performance patterns over time and Used a map visualization to analyze Sales by Region, enhancing the geographical insight of the business performance. 
+- Step 11 : Designed a matrix or table view for detailed analysis of Sales, Profit, and Quantity at the City and Sub-Category level and Added tooltip and formatting enhancements to make the visuals more readable, such as labeling data points, setting proper legends, and adjusting color schemes.
 
   (a) Baggage Handling
 
